@@ -11,6 +11,9 @@ venv/
 *.sqlite3
 /Shopsy/__pycache__/
 *.log
+/staticfiles/
+/media/
 
 # VS Code
 .vscode/
+.idea/
