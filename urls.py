@@ -1,6 +1,6 @@
 from django.urls import path
 from . import views
-from store.views import*
+from Shopsy.views import*
 
 urlpatterns=[
     path('',views.home,name='home')
